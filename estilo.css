@@ -8,13 +8,23 @@
 }
 
 .click{
-    width: 5%;
+    width: 10%;
+    padding-left: 85%;
+    padding-bottom: 200%;
 }
 .imagen{
-    width: 15%;
+    width: 30%;
+    border-radius: 100px;
+    padding-left: 30% ;
+
 }
 .Titulo{
-    width: 30%;
+    width: 40%;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    
+    color: steelblue;
+    padding-left: 35%;
+}
+
+body {
+    background-color: rgb(203, 203, 235);
 }
