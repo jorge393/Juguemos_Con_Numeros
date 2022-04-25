@@ -14,9 +14,11 @@
 }
 .imagen{
     width: 30%;
-    border-radius: 100px;
-    padding-left: 30% ;
+    border-radius: 50px;
 
+}
+.divimagen{
+    padding-left: 40%;
 }
 .Titulo{
     width: 40%;
