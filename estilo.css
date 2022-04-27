@@ -30,7 +30,7 @@
 }
 
 body {
-    background-color: lightskyblue;
+    background-image: url("img/fondo.jpg");
 }
 
 .boton-redireccion {
@@ -39,3 +39,58 @@ body {
     padding: 5px;
     text-decoration: none;
 }
+.boton1{ width: 20%;
+    padding: 10px;
+    background-color: coral;
+
+}
+.boton2{ width: 20%;
+    padding: 10px;
+    background-color: chartreuse;
+
+}
+.boton3{ width: 20%;
+    padding: 10px;
+    background-color: rgb(172, 135, 207) ;
+}
+.boton4{ width: 20%;
+    padding: 10px;
+    background-color: lightcoral;
+}
+.boton5{ width: 20%;
+    padding: 10px;
+    background-color: rgb(145, 89, 89);
+
+}
+.boton6{ width: 20%;
+    padding: 10px;
+    background-color: greenyellow;
+
+}
+.boton7{ width: 25%;
+    padding: 10px;
+    padding-left: 5px;
+    background-color: dodgerblue;
+
+}
+.dib7
+{ 
+    padding-left: 44.6%;
+    padding-top: 10px;
+}
+.dibboton567{
+    padding-top: 10px;
+    padding-left: 30%;
+}
+.dibTitulo2{
+    padding-left: 43%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.dib123 {
+    padding-left: 30%;
+}
+.titulo2{
+    font-size: 45px;
+}
+
