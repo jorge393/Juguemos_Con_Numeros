@@ -30,7 +30,7 @@
 }
 
 body {
-    background-image: url("img/fondo.jpg");
+    background-image: url("../imgMenu/fondo.jpg");
 }
 .divtitulo{
     padding-left: 25%;
