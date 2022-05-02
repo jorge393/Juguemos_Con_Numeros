@@ -13,33 +13,26 @@
 
 
 .imagen{
-    width: 90%;
+    width: 80%;
     border-radius: 50px;
     height: 90% ;
 }
 
 .divimagen{
-    width:auto;
     padding-left: 10%;
     padding-top: 8%;
 }
 
-.title {
-    color: #f80101;
-    font-size: 3rem;
+.titleCustom {
+    color: #000000;
+    font-size: 4rem;
     font-weight: 600;
-    line-height: 1.125;
-}
-
-.container.is-fluid {
-    max-width: none!important;
-    padding-top: 20px;
-    padding-left: 32px;
-    padding-right: 32px;
-    width: 100%;
 }
 
 body {
     background-image: url("img/fondo.jpg");
 }
-
+.divtitulo{
+    padding-left: 25%;
+}
+
