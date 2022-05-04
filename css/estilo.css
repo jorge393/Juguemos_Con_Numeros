@@ -29,10 +29,12 @@
     font-weight: 600;
 }
 
-body {
-    background-image: url("../imgMenu/fondo.jpg");
-}
+
 .divtitulo{
     padding-left: 25%;
 }
+.fondoxD{
+    background-image: url("../imgMenu/fondo5.png");
+}
+
 

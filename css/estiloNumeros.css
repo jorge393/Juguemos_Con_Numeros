@@ -1,3 +1,9 @@
 body {
     background-image: url("../imgMenu/fondo.jpg");
 }
+.Man{
+    width: 0%;
+    display: block;
+    margin: 0px auto;
+    margin-top: 30%;
+}
