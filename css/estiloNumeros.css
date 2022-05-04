@@ -1,9 +1,13 @@
 body {
-    background-image: url("../imgMenu/fondo.jpg");
+    background-image: url("../imgMenu/fondo5.png");
 }
 .Man{
-    width: 0%;
-    display: block;
-    margin: 0px auto;
-    margin-top: 30%;
+    width: 10%;
+    padding-left: 20%;
+}
+.Uno{
+    width: 20px;
+}
+.DOS{
+    width: 10%;
 }
