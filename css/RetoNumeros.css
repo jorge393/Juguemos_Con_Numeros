@@ -3,7 +3,11 @@
 }
 
 .manzana{
-    padding-left: 30%;
-    width: 1rem;
-    height: 1rem;
+    margin-top: 5%;
+    padding-left: 35%;
+    height: 25rem;
+    width:auto;
+}
+body{
+    background-image: url("../imgMenu/fondo5.png");
 }
