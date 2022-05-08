@@ -1,13 +1,19 @@
+.Fondo{
+    background-image: url("../IMG/imgMenu/fondo5.png");
+    /* background-size: contain;fuerza a que siempre se vea la imagen por completo. */
+    background-repeat: no-repeat; /*no repite la imagen en ningún sentido, sólo la muestra una vez. */
+    background-size: cover;/*se encarga de que la imagen siempre cubra por completo el tamaño del contenedor. */
+    
+}
+
 .numero-opcion {
-    width: 50%;
+    width: 60%;
 }
 
 .manzana{
-    margin-top: 5%;
+    margin-bottom: 6%;
     padding-left: 35%;
-    height: 25rem;
+    height: 26rem;
     width:auto;
 }
-body{
-    background-image: url("../imgMenu/fondo5.png");
-}
+

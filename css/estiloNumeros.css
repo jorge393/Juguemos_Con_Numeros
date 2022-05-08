@@ -1,5 +1,9 @@
 body {
-    background-image: url("../imgMenu/fondo5.png");
+    background-image: url("../IMG/imgMenu/fondo5.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+    background-attachment: fixed;
 }
 .Man{
     width: 10%;
