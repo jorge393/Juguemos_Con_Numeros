@@ -1,5 +1,5 @@
 .Fondo{
-    background-image: url("../IMG/imgMenu/fondo5.png");
+    background-image: url("../IMG/imgMenu/FondoAzul.jpg");
     /* background-size: contain;fuerza a que siempre se vea la imagen por completo. */
     background-repeat: no-repeat; /*no repite la imagen en ningún sentido, sólo la muestra una vez. */
     background-size: cover;/*se encarga de que la imagen siempre cubra por completo el tamaño del contenedor. */
