@@ -13,6 +13,8 @@
     border-radius: 5%;
 }
 
+/* Esto hace que los numeros cambien de color cuando el mouse esta sobre ellos
+   La pseudo-clase "hover" hace eso */
 .cambiar:hover{
     background-color: blue;
 }
