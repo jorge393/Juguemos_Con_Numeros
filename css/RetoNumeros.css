@@ -8,6 +8,13 @@
 
 .numero-opcion {
     width: 60%;
+    color: rgb(0, 0, 0);
+    border: 5px solid;
+    border-radius: 5%;
+}
+
+.cambiar:hover{
+    background-color: blue;
 }
 
 .manzana{
