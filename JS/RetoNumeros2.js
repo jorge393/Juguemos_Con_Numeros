@@ -1,0 +1,3 @@
+function cambiarPagina() {
+    location.href = "/"
+}

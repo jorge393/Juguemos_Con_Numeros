@@ -8,9 +8,9 @@
 
 .numero-opcion {
     width: 60%;
-    color: rgb(0, 0, 0);
     border: 5px solid;
-    border-radius: 5%;
+    border-radius: 2rem;
+    box-shadow: 5px 5px 5px rgb(29, 28, 28); /*Hace que tenga una sombra*/
 }
 
 /* Esto hace que los numeros cambien de color cuando el mouse esta sobre ellos
