@@ -6,8 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../../CSS/RetoNumeros.css">
     <link rel="stylesheet" href="../../CSS/bulma.css">
-    <link rel="stylesheet" href="../../JS/index.js">
-    <link rel="stylesheet" href="RetoNumeros2.html">
+
+    <script src="/JS/index.js"></script> 
+
+    <!-- <link rel="stylesheet" href="../../JS/index.js"> ESTO ESTA MAL--> 
 
     <!-- Todo esto es para el icono de la pagina cada uno para aplicarse en cualquier caso(en un telefono, compu, apple etc..) -->
     <link rel="apple-touch-icon" sizes="180x180" href="../../IMG/imgIcono/apple-touch-icon.png">
@@ -22,7 +24,8 @@
 </head>
 
 <body class="Fondo">
-    <a href="RetoNumeros2.html">cambiar de pagina</a>
+    <!-- <a href="/HTML/Retos/RetoNumeros2.html">cambiar de pagina</a>
+    <button onclick="cambiarA()"> HOLAA</button> -->
 
     <div class="container" >
 
@@ -30,11 +33,10 @@
             
             <div class="column is-one-quarter-mobile has-text-centered-desktop">
                 <input type="image" class="numero-opcion cambiar" src="../../IMG/imgNumeros/2trans.png" alt="dos">
-                <!-- <img  src="../../IMG/imgNumeros/2trans.png" alt="dos"> -->
             </div>
-
+            
             <div class="column is-one-quarter-mobile has-text-centered-desktop">
-                <input type="image" class="numero-opcion cambiar" src="../../IMG/imgNumeros/1trans.png" alt="uno">
+                <input type="image" onclick="cambiarA()" class="numero-opcionUno cambiar" src="../../IMG/imgNumeros/1trans.png" alt="uno" >
             </div>
 
             <div class="column is-one-quarter-mobile has-text-centered-desktop">

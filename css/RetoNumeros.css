@@ -1,17 +1,27 @@
 .Fondo{
     background-image: url("../IMG/imgMenu/FondoAzul.jpg");
-    /* background-size: contain;fuerza a que siempre se vea la imagen por completo. */
+    background-size: contain;/* fuerza a que siempre se vea la imagen por completo. */
     background-repeat: no-repeat; /*no repite la imagen en ningún sentido, sólo la muestra una vez. */
     background-size: cover;/*se encarga de que la imagen siempre cubra por completo el tamaño del contenedor. */
-    
+    margin: 0;
 }
 
 .numero-opcion {
     width: 60%;
-    color: rgb(0, 0, 0);
-    border: 5px solid;
-    border-radius: 5%;
+    border: 6px solid;
+    border-radius: 2rem;
+    box-shadow: 5px 5px 5px rgb(29, 28, 28);
 }
+
+.numero-opcionUno{
+    width: 60%;
+    border: 6px solid;
+    border-radius: 2rem;
+    box-shadow: 5px 5px 5px rgb(29, 28, 28); /*Hace que tenga una sombra*/
+}
+/* #cambiar:hover{
+    background-color: blue;
+} */
 
 /* Esto hace que los numeros cambien de color cuando el mouse esta sobre ellos
    La pseudo-clase "hover" hace eso */
@@ -22,12 +32,6 @@
 .manzana{
     margin-bottom: 6%;
     padding-left: 35%;
-    height: 26rem;
-    width:auto;
-}
-.manzana2{
-    margin-bottom: 6%;
-    padding-left: 50%;
     height: 26rem;
     width:auto;
 }
